@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /personalinfo.html
+- name: Ideal job
+  link: /job.html
+- name: Profile
+  link: /profile.html
+- name: Project
+  link: /project.html
